@@ -4,4 +4,5 @@ Kaggle Competition: Rossmann operates over 3,000 drug stores in 7 European count
 We're accepting Rossmann's challenge to predict 6 weeks of daily sales for 1,115 stores located across Germany. Reliable sales forecasts enable store managers to create effective staff schedules that increase productivity and motivation. By helping Rossmann create a robust prediction model, we will help store managers stay focused on what’s most important to them: their customers and their teams!
 
 DataSet is obtained from Kaggle website.
+
 Instructions : Download store.csv and train.csv file and store it in the project folder.
